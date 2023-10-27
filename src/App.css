@@ -1,0 +1,46 @@
+body{
+  background-color: rgba(128, 128, 128, 0.629);
+}
+h1{
+  margin: 3vh auto 2vh auto;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.525);
+}
+.App {
+  text-align: center;
+  justify-content: center;
+  background-color: white;
+  margin: 5vh;
+  border-radius: 5vh;
+  border: 1vh solid grey;
+}
+.table_index{
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin: 2vh auto 6vh auto;
+  justify-content: center;
+  place-items: center;
+  
+}
+th{
+  
+  border: 2px solid black;
+  background-color: rgba(0, 119, 255, 0.501);
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.395);
+  font-weight: bold;
+  height: 5vh;
+  width: 50vh;
+}
+td{
+  border: 2px solid black;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.395); 
+  height: 5vh;
+  background-color: white;
+  width: 50vh;
+   
+}
+a{
+  color: rgb(0, 106, 255);
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.395);
+  text-decoration: none;
+}
+
